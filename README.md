@@ -22,7 +22,7 @@ This Python script automates clicking on specific pixels in the BlumCryptoBot ga
    ```
 
 2. **Select Language:**
-   - Enter '1' for English or '2' for Russian.
+   - Enter '1' for English or '2' for Indonesian.
 
 3. **Select Telegram Desktop Window:**
    - Enter '1' to select the Telegram Desktop window.
